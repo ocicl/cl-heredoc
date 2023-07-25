@@ -1,0 +1,10 @@
+* cl-heredoc
+
+Common Lisp reader heredoc dispatcher
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/e-user/cl-heredoc.git   |
+| commit  | f09f98b  |
+| systems | cl-heredoc |
+|---------+-------------------------------------------|
+
